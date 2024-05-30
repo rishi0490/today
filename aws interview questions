@@ -1,0 +1,646 @@
+ AWS:-
+ What is the difference between stopping and terminating an EC2 instance?
+
+ How can you add an existing instance to a new Auto Scaling group?
+
+ How do you configure CloudWatch to recover an EC2 instance?
+
+ How do you configure CloudWatch to recover an EC2 instance?
+
+ How does Amazon Route 53 provide high availability and low latency?
+
+ What happens in CloudFormation when one of the resources in a stack cannot be
+created successfully?
+
+ What are the steps involved in a CloudFormation Solution?
+
+ How does AWS config work with AWS CloudTrail?
+
+ Can AWS Config aggregate data across different AWS accounts?
+
+ How are reserved instances different from on-demand DB instances?
+
+ Which type of scaling would you recommend for RDS and why?
+
+ What is a maintenance window in Amazon RDS? Will your DB instance be available
+during maintenance events?
+
+ What are the different types of load balancers in AWS?
+
+ What are the different uses of the various load balancers in AWS Elastic Load Balancing?
+
+ How can you use AWS WAF in monitoring your AWS applications?
+
+ What are the different AWS IAM categories that you can control?
+
+ What is the difference between an IAM role and an IAM user?
+
+ What are the managed policies in AWS IAM?
+
+ Can you give an example of an IAM policy and a policy summary?
+
+ How does AWS IAM help your business?
+
+ What is the relation between the Availability Zone and Region?
+
+ What is auto-scaling?
+
+ What is geo-targeting in CloudFront?
+
+ How do you upgrade or downgrade a system with near zero downtime?
+
+ What are the tools and techniques that you can use in AWS to identify if you are paying
+more than you should be, and how to correct it?
+
+ What services can be used to create a centralized logging solution?
+
+ What are the native AWS Security logging capabilities? What is a DDoS attack and what services can minimize them?
+
+ You are trying to provide a service in a particular region but you are not seeing the
+service in that region. Why is this happening and how do you fix it?
+
+ Name some of the AWS services that are not region specific
+
+ What are the differences between NAT Gateways and NAT Instances?
+
+ What are the factors to consider while migrating to Amazon Web Services?
+
+ What is RTO and RPO in AWS?
+
+ If you would like to transfer huge amounts of data, which is the best option among
+Snowball, Snowball Edge, and Snowmobile?
+
+ What are some key differences between AWS S3 and EBS?
+
+ How do you allow a user to gain access to a certain S3 bucket?
+
+ How can you monitor S3 cross region replication to ensure consistency without actually
+checking the bucket?
+
+ VPC is not resolving the server through DNS. What might be the issue and how can you
+fix it?
+
+ How do you connect multiple sites to a VPC?
+
+ Name and explain some security products and features available in VPC?
+
+ How do you monitor Amazon VPC?
+
+ How can you automate EC2 backup using EBS?
+
+ What is the difference between EBS and Instance Store?
+
+ Can you take a backup of EFS like EBS, and if yes, how?
+
+ What are Key-Pairs in AWS?
+
+ What is the relation between the Availability Zone and Region?
+
+ What is a Power User Access in AWS?
+
+ What is the use of lifecycle hooks is Auto scaling?
+
+ What is NAT Instance/NAT Gateway?
+
+ Why is SG?
+
+ If my RDS is running out of space how will you resolve that without launching other
+RDS?
+
+ What is Lambda and how it works?
+
+ How will you take backups using Lambda?
+
+ Component of VPC
+
+ Difference between EC2 and ECS
+
+ Types of storage in AWS?
+
+ What is DNS? Uses?
+
+ Why you won’t go with EC2 for installing Database? Why RDS?
+
+ What is Load Balancer What is VPC Peering
+
+ What is CloudFront
+
+ What is the use of the IAM role?
+
+ How many subnets assign to the routing table?
+
+ What is the static IP?
+
+ How will get access to private subnets?
+
+ Can you increase the size of root volume without shutdown the instance?
+
+ What is ELB? How many types are there?
+
+ What is auto scaling?
+
+ What is hosted zone and uses of record set?
+
+ Types in R53?
+
+ How will take up backup for volumes?
+
+ How to encrypt the root volume?
+
+ How will access AS account?
+
+ What is the subnet group in DB?
+
+ How do you connect to windows instances?
+
+
+ Port numbers of RDP, SSH, and HTTPS?
+
+ What is the difference between EBS, S3, and EFS?
+
+ What type of data do you store in s3 and EBS?
+
+ What is s3 Replication?
+
+ Why use events in cloud watch in AWS?
+
+ What is the difference between VPC level security and system level security?
+
+ If you lost the pem file then how will you connect to EC2?
+
+ You want to store temporary data on an EC2 instance. Which storage option is ideal for
+this purpose?
+
+ How do you configures3 bucket?
+
+ What are EC2 and VPC how we create & write a script?
+
+ Difference between Vagrant and AWS?
+
+ What is the use of EC2 AMI?
+
+ What is the use case of S3 Bucket?
+
+ My webservers are running in private subnet I want to route my ELB Traffic to web
+servers in private subnets?
+
+ What is NAT Instance/NAT Gateway?
+
+ What is NACL and Security Group
+
+ If my RDS is running out of space how will you resolve that without launching other
+RDS?
+
+ What is Lambda and how it works? How will you take backups using Lambda?
+
+ Types of storage in AWS?
+
+ Difference between S3 & Glacier?
+
+ Components of VPC?
+
+ Difference between EC2 and ECS?
+
+ What is DNS? Uses?
+
+ Why you won’t go with EC2 for installing Database? Why RDS?
+
+ What is AWS?
+
+ What is a cloud?
+
+ What is EC2?
+
+ What is VPC?
+
+ What is AZ?
+
+ What is ELB?
+
+ What is VPC peering?
+
+ What is the aim of VPC peering?
+
+ Why use VPC peering, real-time example?
+
+ What is Security Group?
+
+ What is cloud front/CDN?
+
+ What is a lambda, what is the use of it?
+
+ What have you developed using Lambda?
+
+ What is automation have you done for with lambda?
+
+ What is cloud watch?
+
+ What is cloud formation?
+
+ S3 lifecycle?
+
+ What is the use of the IAM role?
+
+ How many subnets assign to the routing table?
+
+ What is the static IP?
+
+ How will get access to private subnets?
+
+ Can you increase the size of root volume without shutdown the instance?
+
+ What is ELB? How many types are there?
+
+ What is auto scaling?
+
+ What is hosted zone and uses of record set?
+
+ How will take up backup for volumes?
+
+ How to encrypt the root volume?
+
+ How will access AS account?
+
+ How do you connect to windows instances?
+
+ Port numbers of RDP, SSH, and HTTPS?
+
+ What is the difference between EBS, S3, and EFS?
+
+ What type of data do you store in s3 and EBS?
+
+ Replication s3?
+
+ Why use events in cloud watch in AWS?
+
+ What is the difference between VPC level security and system level security?
+
+ If you lost the pem file then how will you connect to EC2?
+
+ What IAM Role and policy?
+
+ How will run lambda and where you will configure lambda?
+
+
+ How lambda run on secluding and event-based?
+
+ What is cloud watch? Have you configured any custom metrics?
+
+ What are the metrics available on your dashboard?
+
+ How do you configure CPU Utilization on your dashboard?
+
+ How can I attach SSL for the s3 bucket?
+
+ S3 bucket having a policy for only read-only but you're having full access for you? Can
+you?
+
+ What is CDN?
+
+ How will attach policy for IAM users by group or individual?
+
+
+ Have you used any tool for creating customized AMIS?
+
+ What is connection draining?
+
+ How your ELB shares traffic?
+
+ What is auto-scaling?
+
+ Types of Load Balancers and example?
+
+ What is the run time of Lambda?
+
+ What is the memory size of lambda?
+
+ How can I run lambda for more time?
+
+ By using lambda what are automation you’re performed in your project?
+
+ Why you’re not using boto3 for infrastructure provisioning?
+
+ What are the modules you used in Lambda?
+
+ Have created SNS topic?
+
+ In your VPC all IPS are finished you have a requirement for resources how to provision
+it?
+
+ What is access key and secret key?
+
+ What is CORS in s3?
+
+ What type of ELB you used in the project?
+
+ Difference between EBS and NFS? Different types of storage in S3?
+
+
+
+ Different types of storage in S3?
+
+ Can you explain how you have used Amazon CloudFront to improve content delivery
+and performance, including any techniques you have used to set up caching, SSL/TLS, or
+geo-restriction?
+
+ How have you used AWS Identity and Access Management (IAM) to manage access
+control and permissions for AWS services and resources, including any techniques you
+have used to set up policies or integrate with other authentication and authorization
+systems?
+
+ Can you explain what AWS Cloud is and how it is used in software development and
+deployment?
+
+ How have you used AWS Cloud to deploy and manage infrastructure, including any
+techniques you have used to set up virtual servers, databases, and storage?
+
+ Can you describe your experience using AWS Cloud to manage and scale applications,
+including any techniques you have used to set up load balancing, auto-scaling, and fault
+tolerance?
+
+ How have you used AWS Cloud to manage security and compliance, including any
+techniques you have used to set up network security, access control, and compliance
+audits?
+
+ Can you explain how you have used AWS Cloud to integrate with other tools and
+services in the development pipeline, such as continuous integration and deployment
+platforms or artifact repositories?
+
+ How have you used AWS Cloud to monitor and troubleshoot applications and
+infrastructure, including any techniques you have used to set up logging, monitoring,
+and alerting?
+
+ Can you describe your experience using AWS Cloud to manage data and analytics,
+including any techniques you have used to set up data pipelines, data warehousing, and
+machine learning?
+
+ How have you used AWS Cloud to manage hybrid or multi-cloud environments,
+including any techniques you have used to set up hybrid architectures, manage data
+across different clouds, or integrate with on premise infrastructure?
+
+ Can you explain how you have used AWS Cloud to manage cost optimization and
+billing, including any techniques you have used to set up cost monitoring, budgeting,
+and optimization?
+
+ How have you used AWS Cloud to manage compliance and regulatory requirements,
+including any techniques you have used to set up compliance audits, implement data
+protection policies, or manage GDPR requirements?
+
+ You have a web application that needs to scale dynamically to handle spikes in traffic.
+How would you use AWS Cloud to achieve this?You are tasked with setting up an architecture for a new application that must be highly
+available and fault-tolerant. How would you go about designing this architecture in AWS
+Cloud?
+
+ Your company has a large amount of data that needs to be stored and analyzed. How
+would you use AWS Cloud to set up a data warehouse and analysis system?
+
+ You are tasked with migrating an existing application to AWS Cloud. What steps would
+you take to ensure a successful migration?
+
+ Your application requires a high level of security and compliance. How would you use
+AWS Cloud to ensure the security and compliance requirements are met?
+
+ You are working with a team that needs to collaborate and share code in a secure and
+efficient manner. How would you use AWS Cloud to set up a secure code repository and
+collaboration environment?
+
+ You need to implement a disaster recovery plan for your application. How would you
+use AWS Cloud to set up a disaster recovery solution that meets your needs?
+
+ Your application has specific performance requirements. How would you use AWS Cloud
+to set up a performance monitoring and optimization solution?
+
+ You need to set up a system to handle real-time streaming data. How would you use
+AWS Cloud to set up a real-time data processing and analysis system?
+
+ You have a globally distributed user base that requires low-latency access to your
+application. How would you use AWS Cloud to set up a content delivery network (CDN)
+to improve performance?
+
+ Can you describe your experience with AWS CloudFormation and how you have used it
+to manage infrastructure as code?
+
+ How have you used AWS Lambda to automate tasks and build serverless applications,
+including any techniques you have used to set up event-driven architecture or manage
+deployment and scaling?
+
+ Can you discuss your experience using Amazon S3 to store and manage object data,
+including any techniques you have used to set up versioning, access control, or lifecycle
+policies?
+
+ How have you used Amazon EC2 to manage virtual machines and scale applications,
+including any techniques you have used to manage instance types, security groups, or
+auto scaling?
+
+ Can you explain how you have used Amazon RDS to manage relational databases,
+including any techniques you have used to manage backups, scaling, or replication?
+
+ How have you used Amazon Elastic Load Balancing to distribute traffic across instances
+and improve application availability, including any techniques you have used to set up
+health checks or manage cross-zone load balancing?
+
+ Can you describe your experience using Amazon VPC to isolate and secure your cloud
+resources, including any techniques you have used to set up subnets, security groups, or
+VPN connections?How have you used Amazon Route 53 to manage DNS and routing for your cloud
+applications, including any techniques you have used to set up traffic policies or
+integrate with other AWS services?
+
+ My webservers are running in private subnet I want to route my ELB Traffic to web
+servers in private subnets?
+
+ What is NAT Instance/NAT Gateway?
+
+ If my RDS is running out of space how will you resolve that without launching other
+RDS?
+
+ Difference between Vagrant and AWS?
+
+ What is use of AMI?
+
+ What is the purpose and use of s3 bucket?
+
+ Explain me how do you take backups for RDS?
+
+ Do you any knowledge on setting up Big Data cluster?
+
+ How does auto scaling work?
+
+ What type of ELB you used in the project?
+
+ Are you only using cloud watch for monitoring?
+
+ What is Lambda?
+
+ How does it work?
+
+ I want to run my job today at 5 pm how do you configure?
+
+ Difference between Classic ELB and Application ELB?
+
+ What is auto scaling?
+
+ What is the launch configuration in auto scaling?
+
+ Different types of storage in S3?
+
+ Difference between EBS and NFS?
+
+ What are Glacier and Snowball?
+
+ What has required one resource in was to communicate with other resources?
+
+ Have you worked in any implementation in AWS?
+
+ Can you provide the step by steps instructions, if you want to implementation any
+services for example lambda? What are the procedures?
+
+ What are the things you have been taken care in order to implementation then services
+in AWS?
+
+ How do you deploy lambda and how do you configure lambda functions?
+
+ How do you monitor the lambda functions?
+
+ Have you configured Route53? Can you explain step by step procedures?
+
+ What needs to be done in order to configure the Route53 and what are the things need
+to be taken care during implementation? say, some development team wants to implement their services, so what is your
+take a so how do you get started doing that recommend?
+
+ For example, someone want to use AWS micros services they want to implement in aws
+services?
+
+ What is your approaches and what are the things passes need to be taken care as part
+of implement this micro services in AWS?
+
+ What are the cloud implementation tool you use?
+
+ Can you explain how you will use Terraform for implementation?
+
+ For security like IAM role or policy we can manage it terraform or CDK itself
+
+ For Cost Optimization? What kind of cost optimization you have done?
+
+ In production we are being monitored by CloudWatch for DynamoDB Instance?
+
+ We are Kinley looking into the cost billing we get from the AWS, Suddenly business
+came to reach us they said like we are get billing hit to double. Last week we are paying
+like 15k but suddenly now its double. its 100k bills from AWS
+
+ Can you please find out root cause with DynamoDB what’s wrong with DynamoDB
+utilization?
+
+ In this case what is internal approaches to troubleshoot for this case?
+
+ During CDN CloudFront implementation what parameters need to take care?
+
+ What will be the best approached to reduce the traffic to the origin and how do we start
+with it.
+
+ Have you worked on any log management tools like Kibana, Splunk or Google Analytics
+for metrics?
+
+ How to choose right instance size? What type of questions you will ask to the Business
+to choose right instance size?
+
+ What is the use cases for EC2
+
+ Let’s say I have received one request to create ec2 and install web server like nginx, so
+what information you needed before provision this setup.
+
+ I want to install nginx or apache web server when my ec2 launch. So how do I configure
+it?
+
+ Let’s say you have received request to migrate ec2 instance to another aws account.
+How you can migrate. What is the best approach to migrate ec2 instance?
+
+ What are the checks for ec2 instance
+
+ I want to launch ec2 instance with fixed private ip address?
+
+ What is the difference between ec2 ami and snapshot
+
+ Let’s my ec2 instance private key lost. Then how I can connect to ec2 instance. It’s a
+production server.
+
+ My production server disk space getting full. How I can increase the space without
+taking any down time.if my server disk space getting full but during inspection i found that all application
+code size are find just web server logs consuming disk space, so without using rm
+command how to clear those logs and make disk space free.
+
+ How to handle large amount of traffic for specific period of time during events by using
+load balancer?
+
+ How many type of targets we can configure for load balancer
+
+ Let’s say I have 2 ec2 instance behind load balancer, I want to configure like for specific
+user request should go to specific server for some period of time.
+
+ How to find load balancer ip.
+
+ What is the default load balancing method?
+
+ I have 100 users in my organization
+
+ I want to give full permission for some users let’s say for 50 user
+
+ for rest of the users limited access
+
+ What will be best way to configure this?
+
+ What is the difference between AWS root user and power user
+
+ What is the difference between iam user and role
+
+ I want my s3 bucket accessible for only specific network. How to configure this.
+
+ What is the default storage class for s3 bucket?
+
+ I want to give my s3 bucket data access for only limited time. how we can configure this
+setup
+
+ How to host static website by using s3 bucket and cloudfront, Here make sure entire
+bucket should not be public accessible.
+
+ Why should not we use default VPC
+
+ Let’s say we got the requirement to design VPC for infrastructure, How will you design
+best VPC architecture, What component will you consider for better security
+
+ When we create VPC, What component will create auto with vpc
+
+ What is vpc peering and its use
+
+ What is the process to create vpc peering
+
+ If you have one EC2 instance in private subnet then, how will you patch and upgrade
+using internet. How will you provide internet for that
+
+ What is public and private subnet
+
+ How to define its public or private
+
+ When we create EC2 it will get default public IP. So, How to disable that
+
+ Diff between NACL and SG
+
+ What is VPC endpoint
+
+ Any one of the services quota get exceed then how to resolve it or any action
+
+ I have an on prem data center and want private connectivity between AWS network to
+on prem. How to configure it and which servicesIP VPC OR subnet IP range got occupy by all server then what action do we need to
+perform.
+
+ Explain the purpose of a VPC's route tables. How are they associated with subnets?
+
+ What is a Virtual Private Network (VPN) connection in the context of AWS VPC? How
+does it differ from Direct Connect?
+
+ What is VPC Flow Logs, and why would you enable them?
+
+ What is AWS Private Link, and how does it enhance security in a VPC?
+
+ Describe the process of migrating an EC2 instance from one VPC to another.
+
+ What are the different IPv6 addressing options and features available in VPC?
